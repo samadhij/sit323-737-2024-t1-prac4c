@@ -1,0 +1,121 @@
+{"level":"info","message":"New addition operation requested: 6 + 3","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 6 and 3 received for addition","service":"calculate-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculate-microservice"}
+{"level":"info","message":"New division operation requested: 6 / 3","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 6 and 3 received for division","service":"calculate-microservice"}
+{"level":"error","message":"cannot divide by zero","service":"calculate-microservice"}
+{"level":"info","message":"New multiplication operation requested: 20 * 10","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 20 and 10 received for multiplication","service":"calculate-microservice"}
+{"level":"error","message":"dividend is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"dividend incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"dividend is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"dividend incorrectly defined","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 5 and 2 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 8 and 3 received for modulo operation","service":"calculate-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 7 and 3 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 7 and -3 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 7 and -3 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 7 and -7 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 7 and -7 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 7 and -5 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -11 and 7 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"New division operation requested: -11 / 7","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -11 and 7 received for division","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -11 and 7 received for modulo operation","service":"calculate-microservice"}
+{"level":"error","message":"num2 (divisor) cannnot be zero","service":"calculate-microservice"}
+{"level":"error","message":"division by zero","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 9 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter -9 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter -9 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 0 received for square root","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 9 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 0 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 1 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 1 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 0 received for square root","service":"calculate-microservice"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"info","message":"Parameter Infinity received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter Infinity received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 1 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 1 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameter 10 received for square root","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"info","message":"Parameter Infinity received for square root","service":"calculate-microservice"}
+{"level":"error","message":"result is Infinity","service":"calculate-microservice"}
+{"level":"error","message":"result is Infinity","service":"calculate-microservice"}
+{"level":"info","message":"Parameters Infinity and 9 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 3 and 3 received for exponentiation","service":"calculate-microservice"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"base incorrectly defined","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 3 and 3 received for exponentiation","service":"calculate-microservice"}
+{"level":"error","message":"exponent is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"exponent incorrectly defined","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 1 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 1 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 0 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 0 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and -1 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and -1 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and 0 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and 0 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and -1 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and -1 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and -0.5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and -0.5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -1 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -3 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -3 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -3 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 3 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 3 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 1.5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 1.5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 10 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 10 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 0 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and 0 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -3 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters -4 and -1.5 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and 2 received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 0 and Infinity received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 1 and Infinity received for exponentiation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and Infinity received for exponentiation","service":"calculate-microservice"}

@@ -1,0 +1,37 @@
+{"level":"error","message":"num2 is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"cannot divide by zero","service":"calculate-microservice"}
+{"level":"error","message":"dividend is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"dividend incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"dividend is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"dividend incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num2 (divisor) cannnot be zero","service":"calculate-microservice"}
+{"level":"error","message":"division by zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"num cannnot be less than zero","service":"calculate-microservice"}
+{"level":"error","message":"result is Infinity","service":"calculate-microservice"}
+{"level":"error","message":"result is Infinity","service":"calculate-microservice"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"base incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"exponent is incorrectly defined","service":"calculate-microservice"}
+{"level":"error","message":"exponent incorrectly defined","service":"calculate-microservice"}
